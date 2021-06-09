@@ -22,7 +22,8 @@ This natural disaster varies from cyclone, flood, earthquake, wildfires, and mor
 ### Project Repositories
 - [Android](https://github.com/rofiulkhasanah/INERTIA)
 - [ML](https://github.com/mcairlangga-1/Bangkit-Capstone-Project)
-- [Cloud - Backend]()
+- [Cloud - Main App](https://github.com/achsya03/backend)
+- [Cloud - Assesment](https://github.com/fajarmhr/fastAPI)
 
 ### How to use
 
